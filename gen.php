@@ -58,7 +58,11 @@ class VGCompleteGenerate {
                             
                             $filename = self::slugify($title) . '.json';
 
-                            $this->cli->green($filename);
+                            // $this->cli->green($filename);
+
+                            if($size = file_put_contents($this->console . '/' . $filename, $data)) {
+                                $this->cli->green(sprintf("wrote %d bytes to %s", $size, $filename));
+                            }
                         }
                     }
                 }
