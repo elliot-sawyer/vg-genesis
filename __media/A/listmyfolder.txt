@@ -1,0 +1,48 @@
+ Volume in drive D is Storage
+ Volume Serial Number is DA60-EE36
+
+ Directory of D:\VGComplete\Database\Game Data\A
+
+08/21/2021  01:57 AM    <DIR>          .
+08/21/2021  01:57 AM    <DIR>          ..
+08/20/2021  11:16 PM    <DIR>          AAAHH!!! Real Monsters
+08/20/2021  11:37 PM    <DIR>          Action 52
+08/20/2021  11:39 PM    <DIR>          Addams Family, The
+08/20/2021  11:40 PM    <DIR>          Adventures of Batman & Robin, The
+08/20/2021  11:42 PM    <DIR>          Adventures of Mighty Max, The
+08/20/2021  11:43 PM    <DIR>          Adventures of Rocky and Bullwinkle and Friends, The
+08/20/2021  11:43 PM    <DIR>          Aero the Acro-Bat
+08/20/2021  11:44 PM    <DIR>          Aero the Acro-Bat 2
+08/20/2021  11:44 PM    <DIR>          Aerobiz
+08/20/2021  11:45 PM    <DIR>          Aerobiz Supersonic
+08/20/2021  11:46 PM    <DIR>          After Burner II
+08/20/2021  11:46 PM    <DIR>          Air Buster Trouble Specialty Raid Unit
+08/20/2021  11:47 PM    <DIR>          Air Diver
+08/20/2021  11:47 PM    <DIR>          Al Michaels Announces HardBall III
+08/20/2021  11:57 PM    <DIR>          Alex Kidd in the Enchanted Castle
+08/20/2021  11:57 PM    <DIR>          Alien 3
+08/20/2021  11:57 PM    <DIR>          Alien Storm
+08/20/2021  11:58 PM    <DIR>          Alisia Dragoon
+08/20/2021  11:58 PM    <DIR>          Altered Beast
+08/20/2021  11:59 PM    <DIR>          American Gladiators
+08/20/2021  11:59 PM    <DIR>          Andre Agassi Tennis
+08/21/2021  12:00 AM    <DIR>          Animaniacs
+08/21/2021  12:01 AM    <DIR>          Aquatic Games Starring James Pond and The Aquabats, The
+08/21/2021  12:02 AM    <DIR>          Arcade Classics
+08/21/2021  12:03 AM    <DIR>          Arch Rivals
+08/21/2021  12:04 AM    <DIR>          Arcus Odyssey
+08/21/2021  12:04 AM    <DIR>          Ariel the Little Mermaid
+08/21/2021  12:04 AM    <DIR>          Arnold Palmer Tournament Golf
+08/21/2021  12:05 AM    <DIR>          Arrow Flash
+08/21/2021  12:05 AM    <DIR>          Art Alive!
+08/21/2021  12:08 AM    <DIR>          Art of Fighting
+08/21/2021  12:09 AM    <DIR>          Ast‚rix and the Great Rescue
+08/21/2021  12:10 AM    <DIR>          Atomic Robo-Kid
+08/21/2021  12:11 AM    <DIR>          Atomic Runner
+08/21/2021  12:11 AM    <DIR>          Atp Tour Championship Tennis
+08/21/2021  12:13 AM    <DIR>          Awesome Possum Kicks Dr. Machino's Butt!
+08/21/2021  12:14 AM    <DIR>          Aws Pro Moves Soccer
+08/21/2021  12:15 AM    <DIR>          Ayrton Senna's Super Monaco GP II
+08/21/2021  01:57 AM                 0 listmyfolder.txt
+               1 File(s)              0 bytes
+              40 Dir(s)  3,172,289,466,368 bytes free
