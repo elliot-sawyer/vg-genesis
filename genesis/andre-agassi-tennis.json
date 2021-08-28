@@ -10,11 +10,11 @@
     "MaxPlayers": "",
     "PlayModes": "",
     "MenuScreenshot": "",
-    "ManualThumb": "",
-    "Manual": "",
-    "GameplayScreenshot": "",
-    "FrontBoxart": "",
-    "Cart": "",
-    "BackBoxart": "",
+    "ManualThumb": "__media/A/Andre Agassi Tennis/NTSC-U/ManualThumb.jpg",
+    "Manual": "__media/A/Andre Agassi Tennis/NTSC-U/Manual.pdf",
+    "GameplayScreenshot": "__media/A/Andre Agassi Tennis/NTSC-U/GameplayScreenshot.png",
+    "FrontBoxart": "__media/A/Andre Agassi Tennis/NTSC-U/FrontBoxart.jpg",
+    "Cart": "__media/A/Andre Agassi Tennis/NTSC-U/Cart.png",
+    "BackBoxart": "__media/A/Andre Agassi Tennis/NTSC-U/BackBoxart.jpg",
     "YouTubeVideo": ""
 }

@@ -9,12 +9,12 @@
     "ReleaseDate": "",
     "MaxPlayers": "",
     "PlayModes": "",
-    "MenuScreenshot": "",
+    "MenuScreenshot": "__media/A/Alien 3/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "",
-    "Manual": "",
-    "GameplayScreenshot": "",
-    "FrontBoxart": "",
-    "Cart": "",
-    "BackBoxart": "",
+    "Manual": "__media/A/Alien 3/NTSC-U/Manual.pdf",
+    "GameplayScreenshot": "__media/A/Alien 3/NTSC-U/GameplayScreenshot.png",
+    "FrontBoxart": "__media/A/Alien 3/NTSC-U/FrontBoxart.jpg",
+    "Cart": "__media/A/Alien 3/NTSC-U/Cart.png",
+    "BackBoxart": "__media/A/Alien 3/NTSC-U/BackBoxart.jpg",
     "YouTubeVideo": ""
 }

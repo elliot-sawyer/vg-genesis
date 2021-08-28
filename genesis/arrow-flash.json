@@ -9,12 +9,12 @@
     "ReleaseDate": "",
     "MaxPlayers": "",
     "PlayModes": "",
-    "MenuScreenshot": "",
-    "ManualThumb": "",
-    "Manual": "",
-    "GameplayScreenshot": "",
+    "MenuScreenshot": "__media/A/Arrow Flash/NTSC-U/MenuScreenshot.png",
+    "ManualThumb": "__media/A/Arrow Flash/NTSC-U/ManualThumb.jpg",
+    "Manual": "__media/A/Arrow Flash/NTSC-U/Manual.pdf",
+    "GameplayScreenshot": "__media/A/Arrow Flash/NTSC-U/GameplayScreenshot.png",
     "FrontBoxart": "",
-    "Cart": "",
-    "BackBoxart": "",
+    "Cart": "__media/A/Arrow Flash/NTSC-U/Cart.png",
+    "BackBoxart": "__media/A/Arrow Flash/NTSC-U/BackBoxart.jpg",
     "YouTubeVideo": ""
 }

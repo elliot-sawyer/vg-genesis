@@ -53,12 +53,18 @@ class VGCompleteGenerate {
 
                         $ntscUFolder = $titleFolder . '/' . 'NTSC-U';
                         if(is_dir($ntscUFolder) && substr($i, 0, 1) != '.') {
-
-                            $data = $this->getJSON($title, $this->console, 'NTSC-U');
+                            $firstChar = substr($i, 0, 1);
+                            if(ctype_digit($firstChar)) {
+                                $firstChar = '0~9';
+                            }
+                            $data = $this->getJSON(
+                                $title,
+                                $this->console,
+                                'NTSC-U',
+                                '__media/'.$firstChar.'/'.$title.'/'.'NTSC-U'
+                            );
                             
                             $filename = self::slugify($title) . '.json';
-
-                            // $this->cli->green($filename);
 
                             if($size = file_put_contents($this->console . '/' . $filename, $data)) {
                                 $this->cli->green(sprintf("wrote %d bytes to %s", $size, $filename));
@@ -70,7 +76,7 @@ class VGCompleteGenerate {
         }
     }
 
-    private function getJSON($title, $console, $region) {
+    private function getJSON($title, $console, $region, $sourceFolder) {
         return json_encode([
             'Title' => $title,
             'Description' => '',
@@ -82,44 +88,61 @@ class VGCompleteGenerate {
             'ReleaseDate' => '',
             'MaxPlayers' => '',
             'PlayModes' => '',
-            'MenuScreenshot' => '',
-            'ManualThumb' => '',
-            'Manual' => '',
-            'GameplayScreenshot' => '',
-            'FrontBoxart' => '',
-            'Cart' => '',
-            'BackBoxart' => '',
+            'MenuScreenshot' => $this->getCandidateFile('MenuScreenshot', $sourceFolder),
+            'ManualThumb' => $this->getCandidateFile('ManualThumb', $sourceFolder),
+            'Manual' => $this->getCandidateFile('Manual', $sourceFolder, ['pdf']),
+            'GameplayScreenshot' => $this->getCandidateFile('GameplayScreenshot', $sourceFolder),
+            'FrontBoxart' => $this->getCandidateFile('FrontBoxart', $sourceFolder),
+            'Cart' => $this->getCandidateFile('Cart', $sourceFolder),
+            'BackBoxart' => $this->getCandidateFile('BackBoxart', $sourceFolder),
             'YouTubeVideo' => '',
-        ], JSON_PRETTY_PRINT);
+        ], JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES);
     }
 
     public static function slugify($text, string $divider = '-')
     {
-      // replace non letter or digits by divider
-      $text = preg_replace('~[^\pL\d]+~u', $divider, $text);
-    
-      // transliterate
-      $text = iconv('utf-8', 'us-ascii//TRANSLIT', $text);
-    
-      // remove unwanted characters
-      $text = preg_replace('~[^-\w]+~', '', $text);
-    
-      // trim
-      $text = trim($text, $divider);
-    
-      // remove duplicate divider
-      $text = preg_replace('~-+~', $divider, $text);
-    
-      // lowercase
-      $text = strtolower($text);
-    
-      if (empty($text)) {
+        // replace non letter or digits by divider
+        $text = preg_replace('~[^\pL\d]+~u', $divider, $text);
+
+        // transliterate
+        $text = iconv('utf-8', 'us-ascii//TRANSLIT', $text);
+
+        // remove unwanted characters
+        $text = preg_replace('~[^-\w]+~', '', $text);
+
+        // trim
+        $text = trim($text, $divider);
+
+        // remove duplicate divider
+        $text = preg_replace('~-+~', $divider, $text);
+
+        // lowercase
+        $text = strtolower($text);
+
+        if (empty($text)) {
         return 'n-a';
-      }
-    
-      return $text;
+        }
+
+        return $text;
     }
-    
+
+    private function getCandidateFile($KeyFilename, $sourceFolder, $allowedExtensions = ['jpg', 'png', 'gif'])
+    {
+        foreach($allowedExtensions as $ext) {
+            $testFilename = $KeyFilename . '.' . $ext;
+            if(file_exists(getcwd() . '/' . $sourceFolder. '/'. $testFilename)) {
+                return $sourceFolder . '/' . $testFilename;
+            }
+
+            $testFilename = $KeyFilename . '.' . strtoupper($ext);
+            if(file_exists(getcwd() . '/' . $sourceFolder. '/'. $testFilename)) {
+                return $sourceFolder . '/' . $testFilename;
+            }
+        }
+
+        return '';
+    }
+
 
 }
 

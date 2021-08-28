@@ -9,12 +9,12 @@
     "ReleaseDate": "",
     "MaxPlayers": "",
     "PlayModes": "",
-    "MenuScreenshot": "",
+    "MenuScreenshot": "__media/A/American Gladiators/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "",
-    "Manual": "",
-    "GameplayScreenshot": "",
-    "FrontBoxart": "",
-    "Cart": "",
-    "BackBoxart": "",
+    "Manual": "__media/A/American Gladiators/NTSC-U/Manual.pdf",
+    "GameplayScreenshot": "__media/A/American Gladiators/NTSC-U/GameplayScreenshot.png",
+    "FrontBoxart": "__media/A/American Gladiators/NTSC-U/FrontBoxart.jpg",
+    "Cart": "__media/A/American Gladiators/NTSC-U/Cart.png",
+    "BackBoxart": "__media/A/American Gladiators/NTSC-U/BackBoxart.jpg",
     "YouTubeVideo": ""
 }
