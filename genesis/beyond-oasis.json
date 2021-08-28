@@ -1,14 +1,15 @@
 {
     "Title": "Beyond Oasis",
-    "Description": "",
+    "SortingTitle": "Beyond Oasis",
+    "Description": "Prince Ali has found the magical Golden Armlet, which was used many years ago to defeat an evil wizard who wielded its counterpart, the Silver Armlet. The Prince has now to stop the evil sorcerer and save the island of Oasis. To do so, he will need his wits, skills ,and the powers of the four Wild Spirits.\n\nBeyond Oasis (also known as The Story of Thor) is a fast-paced action game with RPG elements. The Prince's default weapon is the knife, which has unlimited uses. During the course of the game, the hero will also find other weapons, such as bows, swords, and bombs. All these weapons have limited uses and will eventually break.\n\nThe Wild Spirits are elementals the player can call to help to destroy enemies, heal the hero, or solve puzzles. These are the fire spirit, the water spirit, the plant spirit, and the shadow spirit.\n\nThe game has a large assortment of monsters, including massive creatures such as the Red Dragon boss or zombies that split in two, with their torsos continuing to crawl and attack the hero.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA Enterprises Ltd.",
+    "Developer": "Ancient Co. Ltd.",
+    "Genre": "Action, RPG (Real-time)",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Beyond Oasis/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Beyond Oasis/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Beyond Oasis/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Beyond Oasis/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Beyond Oasis/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Beyond Oasis/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=yszOF6wXmi8"
 }

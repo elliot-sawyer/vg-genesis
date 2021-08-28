@@ -1,14 +1,15 @@
 {
     "Title": "Ayrton Senna's Super Monaco GP II",
-    "Description": "",
+    "SortingTitle": "Ayrton Senna's Super Monaco GP II",
+    "Description": "Ayrton Senna won the Monaco Grand Prix six times, as well as 3 Formula One world championships, so he was the perfect man to license a home sequel to the classic arcade racing game. As before, the action is viewed from within the cockpit, but depicted using sprites rather than polygons.\n\nThere are three main modes:\nSenna GP: Features three non-championship circuits with a preliminary race followed by three laps.\n\nWorld Championship: The full 16-race championship. There are two modes in the championship mode that affect how the game is played. Beginner is a regular season, with the same difficulty level as the remaining modes, and cars have roughly the same power. Each race has three laps. In Master things get a twist. There are five groups of cars, and the player starts on the lowly competitive SERGA team. To climb the ranks and get a chance of claim the title the player must challenge a driver from other team and beat him to the top spot. The winner of this particular race gets (or holds) the fastest car. Races are also longer in this mode, and pit-stops are activated, required if the player knocks on too many objects or other cars frequently.\n\nFree Practice: This allows the player to drive on any race without caring for championship positions. There are two options in Free Practice: Free Run is just the player against the clock and Image Training is a race, but instead of having to qualify and then run the three laps, the player can set the number of laps (between one and six), starting position and the condition of the track (dry or wet, only on some circuits).\nWhile each mode presents it's own variations, the core of each race is the same: Along controller setup options, the player can choose between an Automatic or Manual with 4 or 7 speeds gearbox, and races against 16 drivers. The car can be instantly wrecked if it goes on top speed against a roadside object.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises Ltd.",
+    "Genre": "Racing",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Ayrton Senna's Super Monaco GP II/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=Bki2a3BK-go"
 }

@@ -1,14 +1,15 @@
 {
     "Title": "Burning Force",
-    "Description": "",
+    "SortingTitle": "Burning Force",
+    "Description": "In this game, you play the role of Hiromo, a blue-haired girl who roams the skies on her trusty red airbike. One day, during a routine patrol, she discovered aliens have attacked the Earth. Of course, it is up to our heroine to go on a solo mission, flying in her airbike around the Earth, fighting regular enemies and bosses, and ultimately saving the planet.\r\n\r\nThis is a pseudo-3D scrolling shooter similar to Space Harrier. The game is viewed from behind-the-character perspective. You can use regular fire attacks or limited super-powerful shots that do big damage.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Namco Hometek Inc.",
+    "Developer": "Namco Limited",
+    "Genre": "Action, Shoot 'Em Up",
+    "ReleaseDate": "1990",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Burning Force/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Burning Force/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Burning Force/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Burning Force/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Burning Force/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Burning Force/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=RZUR4OSJHT8"
 }

@@ -1,14 +1,15 @@
 {
     "Title": "Altered Beast",
-    "Description": "",
+    "SortingTitle": "Altered Beast",
+    "Description": "You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.\n\nThe Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.\n\nThe game can be played in single player mode, or in same-screen multiplayer co-op mode",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Team Shinobi",
+    "Genre": "Action, Beat 'Em Up",
+    "ReleaseDate": "1989",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/A/Altered Beast/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Altered Beast/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Altered Beast/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Altered Beast/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Altered Beast/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Altered Beast/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=VWOaU8Bo720"
 }

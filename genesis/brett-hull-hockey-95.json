@@ -1,14 +1,15 @@
 {
     "Title": "Brett Hull Hockey '95",
-    "Description": "",
+    "SortingTitle": "Brett Hull Hockey '95",
+    "Description": "Motion-captured graphics made their first appearance in a hockey game with this Brett Hull license. Al Michaels provides a full running commentary, while a mode allowing the player to improve their game with Brett's help is also included. The game is viewed isometrically, with all the realistic fouls and gameplay situations included. Full pre-match analysis and forecasting is provided, as are post match statistics.\r\n",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Accolade, Inc.",
+    "Developer": "Radical Entertainment Inc.",
+    "Genre": "Sports, Hockey",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Brett Hull Hockey '95/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Brett Hull Hockey '95/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Brett Hull Hockey '95/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Brett Hull Hockey '95/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Brett Hull Hockey '95/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Brett Hull Hockey '95/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=5vJCEsVrvCc"
 }

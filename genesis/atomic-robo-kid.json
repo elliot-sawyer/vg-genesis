@@ -1,14 +1,15 @@
 {
     "Title": "Atomic Robo-Kid",
-    "Description": "",
+    "SortingTitle": "Atomic Robo-Kid",
+    "Description": "As the half-human half-cyborg flying machine of the title, you are faced with 28 levels to clear of enemies. The gameplay is horizontally scrolling. Your unit is able to fly and then hold at a certain level in space. Defeated enemies often release gems, which can be collected towards power-ups. These include more powerful or multi-directional firing.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Treco",
+    "Developer": "UPL Co., Ltd",
+    "Genre": "Action, Shoot 'Em Up",
+    "ReleaseDate": "1990",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Atomic Robo-Kid/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Atomic Robo-Kid/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Atomic Robo-Kid/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Atomic Robo-Kid/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Atomic Robo-Kid/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Atomic Robo-Kid/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=AuoFfvcyN5E"
 }

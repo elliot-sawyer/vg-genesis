@@ -1,14 +1,15 @@
 {
     "Title": "Blades of Vengeance",
-    "Description": "",
+    "SortingTitle": "Blades of Vengeance",
+    "Description": "Blades of Vengeance is a platform game incorporating light RPG elements and character styling, reminiscent of Gods by The Bitmap Brothers. The Dark Lady has unleashed hordes of monsters whom the protagonist must slay.\n\nThe player can choose from three main characters - the Huntress, Warrior and Sorcerer, all of which have different abilities. Throughout the game the player has the option to improve their powers by collecting armour and weapons (such as a mace and a crossbow) or by using spells. Each of the eight stages ends with a boss.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Beam Software Pty., Ltd",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Blades of Vengeance/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Blades of Vengeance/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Blades of Vengeance/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Blades of Vengeance/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Blades of Vengeance/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Blades of Vengeance/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=28txyAQBUHQ"
 }

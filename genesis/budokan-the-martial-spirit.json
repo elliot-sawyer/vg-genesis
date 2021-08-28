@@ -1,14 +1,15 @@
 {
     "Title": "Budokan The Martial Spirit",
-    "Description": "",
+    "SortingTitle": "Budokan: The Martial Spirit",
+    "Description": "Budokan is a martial arts game covering Karate (unarmed combat), Kendo (using a wooden sword), Nunchaku (using piercing chain weapons) and Bo (using a staff). The player has a realistic range of moves and must use them wisely, as Ki (life-force) is drained for every move made, whether successful or not, and both this and your stamina level must be kept high.\r\n\r\nYou can practice your skills alone, or spar against the instructors or your friends. Finally, when you feel you are ready, you can travel to the martial arts world championship tournament at Budokan.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Electronic Arts, Inc.",
+    "Genre": "Fighting",
+    "ReleaseDate": "1990",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Budokan The Martial Spirit/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Budokan The Martial Spirit/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Budokan The Martial Spirit/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Budokan The Martial Spirit/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Budokan The Martial Spirit/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Budokan The Martial Spirit/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=8ngU5mEPGkc"
 }

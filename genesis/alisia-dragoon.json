@@ -1,14 +1,15 @@
 {
     "Title": "Alisia Dragoon",
-    "Description": "",
+    "SortingTitle": "Alisia Dragoon",
+    "Description": "Alisia Dragoon is the female protagonist of this fast-paced platform game. Alisia must destroy an evil demon and avenge her fathers death through eight stages. She has only one weapon to dispose of enemies: thunder magic. This magic is auto-aiming and can track multiple targets. However, her quest is no easy task as the levels are loaded with fantasy-inspired monsters. Using thunder magic reduces a magic gauge, meaning you often have to wait for it to recharge. Once fully charged Alisia can unleash a massive rolling blast of lightning across the screen.\n\nDuring the game, you can improve your magic by picking up potions. There are also four monsters which accompany Alisia: Dragon Frye, Ball O'Fire, Thunder Raven and Boomerang Lizard. Each has different abilities, deciding which, if any, to use in a given situation is part of the challenge. These monsters, like Alisia herself, are fully upgradeable with power-ups. They can also die if weakened too much, forcing you to hunt for a reviving power-up. You can pause the game and select your companion at any time.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Game Arts Co., Ltd.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Alisia Dragoon/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/A/Alisia Dragoon/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Alisia Dragoon/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Alisia Dragoon/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Alisia Dragoon/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Alisia Dragoon/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=n_cbwUNmnSo"
 }

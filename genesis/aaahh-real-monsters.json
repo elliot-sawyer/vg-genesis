@@ -1,14 +1,15 @@
 {
     "Title": "AAAHH!!! Real Monsters",
-    "Description": "",
+    "SortingTitle": "Aaahh!!! Real Monsters",
+    "Description": "In this game, based on the popular Nickelodeon animated series, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them!",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Viacom New Media",
+    "Developer": "Realtime Associates, Inc.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1995",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/AAAHH!!! Real Monsters/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/AAAHH!!! Real Monsters/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/AAAHH!!! Real Monsters/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/AAAHH!!! Real Monsters/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/AAAHH!!! Real Monsters/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/AAAHH!!! Real Monsters/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/ohHtYUpKQLo"
 }

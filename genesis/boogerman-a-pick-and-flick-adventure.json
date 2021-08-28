@@ -1,14 +1,15 @@
 {
     "Title": "Boogerman A Pick and Flick Adventure",
-    "Description": "",
+    "SortingTitle": "Boogerman: A Pick and Flick Adventure",
+    "Description": "Boogerman is a jump-and-run game where the protagonist flicks boogers and farts at enemies in order to stand a chance against the evil Boogermeister. The game features about 20 levels of dirt, slime and bad taste in worlds like \"Mucous Mountains\", \"The Pits\" and \"Flatulent Swamps\".",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Interplay Productions, Inc.",
+    "Developer": "Interplay Productions, Inc.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Boogerman A Pick and Flick Adventure/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=dMvxRnFEZb0"
 }

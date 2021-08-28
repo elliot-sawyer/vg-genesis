@@ -1,14 +1,15 @@
 {
     "Title": "Blaster Master 2",
-    "Description": "",
+    "SortingTitle": "Blaster Master 2",
+    "Description": "Some time has passe since the boy Jason and his tank Sophia defeated the evil Plutonium Boss and his radioactive underground mutant henchmen. However, not all is well. It appears that one of Plutonium Boss' underlings has survived. He has destroyed Sophia and is now using its parts in order to rise to the surface of the Earth and to conquer it. Jason builds a new Sophia tank and is prepared to defend his planet!\n\nThis is an action platform game. You control Sophia that can roll, jump, and fire two different kinds of attacks at enemies. being a tank, Sophia cannot perform some actions (such as climbing ladders), so often Jason will have to leave the tank and to fight his way through the level alone.\n",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sun Corporation of America",
+    "Developer": "Software Creations Ltd.",
+    "Genre": "Adventure, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Blaster Master 2/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "",
     "Manual": "",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Blaster Master 2/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Blaster Master 2/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Blaster Master 2/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=yxYB4WHOZ9s"
 }

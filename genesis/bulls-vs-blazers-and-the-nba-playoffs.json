@@ -1,14 +1,15 @@
 {
     "Title": "Bulls vs. Blazers and the NBA Playoffs",
-    "Description": "",
+    "SortingTitle": "Bulls vs. Blazers and the NBA Playoffs",
+    "Description": "Another update in Electronic Arts' basketball series, this time featuring the teams and players from the 1992 NBA playoffs plus the East and West All-Stars.\r\n\r\nFeatures unchanged from the previous games include detailed stats, instant replay, substitutions, free throw T-meter and signature moves, some of which are new.\r\n\r\nExclusive to the Genesis version is the ability to create your own All-Star teams and to call defensive plays.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Electronic Arts, Inc.",
+    "Genre": "Sports, Basketball",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Bulls vs. Blazers and the NBA Playoffs/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "",
     "Manual": "__media/B/Bulls vs. Blazers and the NBA Playoffs/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bulls vs. Blazers and the NBA Playoffs/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bulls vs. Blazers and the NBA Playoffs/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bulls vs. Blazers and the NBA Playoffs/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=tYQkeJ61gAc"
 }

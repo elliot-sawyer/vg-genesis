@@ -1,14 +1,15 @@
 {
     "Title": "Berenstain Bears' Camping Adventure, The",
-    "Description": "",
+    "SortingTitle": "Berenstain Bears' Camping Adventure, The",
+    "Description": "A bear family - Father Bear, Mother Bear, Sister Bear, and Brother Bear - decide to go camping to the nearby forest. While they sit by the fire, the two cubs decide to explore the area. Visit dangerous places, avoid or destroy the enemies, and collect things that bears like most - such as honey or fresh fish!\n\nYou can play as either Sister or Brother Bear. From the beginning, you can access four different levels. Once you complete them, you'll unlock the final stage. The bears can jump, throw rocks at enemies, or swing a net to hit them. In each area there are a lot of things to gather - mostly food. After a level is completed, you'll be shown how much valuable stuff you have managed to get",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Realtime Associates, Inc.\n",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Berenstain Bears' Camping Adventure, The/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=vjzPPL6tDLE"
 }

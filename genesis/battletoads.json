@@ -1,14 +1,15 @@
 {
     "Title": "Battletoads",
-    "Description": "",
+    "SortingTitle": "Battletoads",
+    "Description": "The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!\n\nYou will control a battletoad through 13 levels (five of which are missing from the Game Boy port). Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Tradewest, Inc.",
+    "Developer": "Rare Ltd.",
+    "Genre": "Action, Beat 'Em Up",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Battletoads/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Battletoads/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Battletoads/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Battletoads/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Battletoads/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Battletoads/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=zbyJN8cFfpY"
 }

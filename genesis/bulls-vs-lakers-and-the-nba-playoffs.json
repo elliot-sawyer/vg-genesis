@@ -1,14 +1,15 @@
 {
     "Title": "Bulls vs Lakers and the NBA Playoffs",
-    "Description": "",
+    "SortingTitle": "Bulls vs Lakers and the NBA Playoffs",
+    "Description": "The sequel to EA Sports' basketball title Lakers versus Celtics and the NBA Playoffs. The core gameplay of the original is supplemented with a variety of new features, including:\r\nAll 16 1992 NBA Playoff teams (up from 8 in Lakers vs. Celtics) plus the East and West All-Star Teams, plus courts with official team logos/colors. The rosters are based on the 1990/1991 season.\r\nPlayer game stats updated while the game is in progress.\r\nAn Instant Replay mode.\r\nNew \"signature moves\" for star players.\r\nImproved defense and passing controls and a foul shooting meter.\r\nMultiplayer options include cooperative and head-to-head modes.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Electronic Arts, Inc.",
+    "Genre": "Sports, Basketball",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bulls vs Lakers and the NBA Playoffs/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=xx4ejlCcCS0"
 }

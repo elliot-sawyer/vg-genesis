@@ -1,14 +1,15 @@
 {
     "Title": "Art of Fighting",
-    "Description": "",
+    "SortingTitle": "Art of Fighting",
+    "Description": "Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.\n\nThe gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.\n\nThe arcade version doesn't allow you to play as Mr. Big and the elusive Mr. Karate",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SNK Corporation",
+    "Genre": "Fighting",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/A/Art of Fighting/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/A/Art of Fighting/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Art of Fighting/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Art of Fighting/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Art of Fighting/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Art of Fighting/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=LerlGQ03mX4"
 }

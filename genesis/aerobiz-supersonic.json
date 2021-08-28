@@ -1,14 +1,15 @@
 {
     "Title": "Aerobiz Supersonic",
-    "Description": "",
+    "SortingTitle": "Aerobiz Supersonic",
+    "Description": "You have just been elected as the CEO of a brand new airline company that must compete against 3 other airlines for global dominance. Set up new routes, buy businesses, and manage all your resources including planes, cashflow, and company representatives. The basic premise of the game is the same as that of the original Aerobiz, but this time you have more planes to choose from, more city airports spanned over 7 different global regions, and 4 different time period scenarios complete with historically accurate political relationships and events.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "KOEI Corporation",
+    "Developer": "KOEI Co., Ltd.",
+    "Genre": "Simulation, Strategy",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player, Versus (Alternating)",
     "MenuScreenshot": "__media/A/Aerobiz Supersonic/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Aerobiz Supersonic/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Aerobiz Supersonic/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Aerobiz Supersonic/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Aerobiz Supersonic/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Aerobiz Supersonic/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=bpogI5S3hR8"
 }

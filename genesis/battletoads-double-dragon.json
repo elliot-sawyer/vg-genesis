@@ -1,14 +1,15 @@
 {
     "Title": "Battletoads Double Dragon",
-    "Description": "",
+    "SortingTitle": "Battletoads Double Dragon",
+    "Description": "Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.\n\nThe Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Tradewest, Inc.",
+    "Developer": "Rare Ltd.",
+    "Genre": "Action, Beat 'Em Up",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Battletoads Double Dragon/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Battletoads Double Dragon/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Battletoads Double Dragon/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Battletoads Double Dragon/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Battletoads Double Dragon/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Battletoads Double Dragon/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=rfOxhf0Dt40"
 }

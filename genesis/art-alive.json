@@ -1,14 +1,15 @@
 {
     "Title": "Art Alive!",
-    "Description": "",
+    "SortingTitle": "Art Alive!",
+    "Description": "Art Alive allows the player to create drawings. Art Alive comes with over 50 graphics and animations ready to be used in the player's drawings. Use drawing tools such as the pencil, eraser, paint bucket, paint can, line tool, rectangle tool, and circle tool to create original artwork. The game also includes pre-drawn backdrops that can be colored in with the paint bucket.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Western Technologies Inc.",
+    "Genre": "Educational",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Art Alive!/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Art Alive!/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Art Alive!/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Art Alive!/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Art Alive!/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Art Alive!/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=cWUM69qgfxg"
 }

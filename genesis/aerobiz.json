@@ -1,14 +1,15 @@
 {
     "Title": "Aerobiz",
-    "Description": "",
+    "SortingTitle": "Aerobiz",
+    "Description": "You are the CEO of an airline company. Your goal is to become the most successful airline in the world by connecting all 22 cities with air routes, maintain a profit, and meet the required quota of passengers. If you cannot turn a profit for a year or meet the victory conditions in 32 years you lose. Some strategic decisions you must make include negotiating for open air routes, purchasing or selling aircraft, invest in branch offices and hotels, advertise your airline and set budgets. You must also pay attention to statistics like quarterly and annual sales reports, as well as city data. World events also affect your airline, from natural disasters to war and even the Olympic games, all of which will affect how many passengers you get. All the planes in the game are based on real-life aircraft, such as the Boeing 747 and the Concorde.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "KOEI Corporation",
+    "Developer": "KOEI Co., Ltd.",
+    "Genre": "Simulation, Strategy",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player, Versus (Alternating)",
     "MenuScreenshot": "__media/A/Aerobiz/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/A/Aerobiz/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Aerobiz/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Aerobiz/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Aerobiz/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Aerobiz/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=AXUTBWEKGJQ"
 }

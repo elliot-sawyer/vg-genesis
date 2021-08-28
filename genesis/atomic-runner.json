@@ -1,14 +1,15 @@
 {
     "Title": "Atomic Runner",
-    "Description": "",
+    "SortingTitle": "Atomic Runner",
+    "Description": "One windy day, there was an explosion at a nuclear power station, causing heavy doses of radiation to be poured over many people. One of these people was a coal miner named Chelnov. When he survived the deadly accident, he was possessed with abnormal powers. Having realized this, he decided to act in the cause of justice. He is determined to escape the Eastern Bloc country he called home and run and jump across the world to finish in the US.\n\nWhat distinguishes Chelnov: Atomic Runner from other platform games is its use of forced scrolling. This occurs when the screen moves continuously from left to right, forcing players to negotiate the game's many obstacles and enemies without controlling Chelnov's speed of progress. Enemies attack from left, right, above, and below, and Chelnov can switch the direction he's facing to attack enemies that are behind him. Some enemies in the game carry different types of weapons and power-ups, and when they are shot at, the power-ups drop to the ground and can be picked up.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Data East USA, Inc.",
+    "Developer": "Data East Corporation",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Atomic Runner/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Atomic Runner/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Atomic Runner/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Atomic Runner/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Atomic Runner/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Atomic Runner/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=5MlMkuaNlN4"
 }

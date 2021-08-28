@@ -1,14 +1,15 @@
 {
     "Title": "Arnold Palmer Tournament Golf",
-    "Description": "",
+    "SortingTitle": "Arnold Palmer Tournament Golf",
+    "Description": "Select your level of play, and then head for the pro shop to choose between Black Carbon, Glass Fiber, and Ceramic Clubs.\n\nTee off by yourself or play 18 holes with a friend. Besides the One and Two Player modes there's also a practice mode, match play (head to head), and a full-blown international tournament, where you'll stroke it out against 15 competitors.\n\nTournament play lasts 12 rounds, 18 holes of golf each. Most rounds are standard \"stroke\" play but the seventh and eighth rounds are \"match\" games. Things really get serious when match game ends in a tie, and players move into a sudden death play-off.\n\nDuring the tournament players earn higher skill levels, more knowledgeable caddies, and more power. You'll earn a password at the end of each round of the tournament.\n\nThe game let's you play on three different courses; Japan, the United States, and Great Britain.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises Ltd.",
+    "Genre": "Sports",
+    "ReleaseDate": "1989",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Alternating)",
     "MenuScreenshot": "__media/A/Arnold Palmer Tournament Golf/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "",
     "Manual": "__media/A/Arnold Palmer Tournament Golf/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Arnold Palmer Tournament Golf/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Arnold Palmer Tournament Golf/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Arnold Palmer Tournament Golf/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=jXukdHs98Rk"
 }

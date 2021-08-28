@@ -1,14 +1,15 @@
 {
     "Title": "ATP Tour Championship Tennis",
-    "Description": "",
+    "SortingTitle": "Atp Tour Championship Tennis",
+    "Description": "In this quasi-sequel of Wimbledon, Sega secured the ATP license, bringing 32 players (including Pete Sampras, John McEnroe and Stefan Edberg) plus a few others from the Senior Tour (among six others, legends such as Ilie Nastase and Stan Smith), as well as the option to create four players that can be developed in the ATP Tour mode. Each player has seven attributes that define their control and power in both serve, forehand and backhand, as well as their footwork. Four court types are available which affect the speed and bounce of the ball in different ways, and 11 real ATP tournaments are available to play.\n\nThere are three game modes: Exhibition match, Exhibition Tournament (where the player competes in a 32-player tournament), ATP Senior Tour Event (where the player chooses one of the retired players and competes in a 8-player tournament) and the ATP Tour, where it's possible to create a player and develop his skills by winning (or simply doing well) on tournaments, with one extra point on each round won.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SIMS Co., Ltd.",
+    "Genre": "Sports",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "",
     "ManualThumb": "__media/A/ATP Tour Championship Tennis/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/ATP Tour Championship Tennis/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/ATP Tour Championship Tennis/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/ATP Tour Championship Tennis/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/ATP Tour Championship Tennis/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=13olDjY802M"
 }

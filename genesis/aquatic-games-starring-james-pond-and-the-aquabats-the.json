@@ -1,14 +1,15 @@
 {
     "Title": "Aquatic Games Starring James Pond and The Aquabats, The",
-    "Description": "",
+    "SortingTitle": "Aquatic Games Starring James Pond and The Aquabats, The",
+    "Description": "The Super Aquatic Games was conceived partly as an Olympics tie-in, and partly as a stop-gap for James Pond fans (the third platform title in the series (Operation Starfish) was in the process of being heavily delayed, eventually being released in 1994). This game saw Pond and friends competing in the underwater Olympics.\n\nThe events take the form of various mini-games, usually in the same vein as Hyper Sports, but with an aquatic theme and the humour seen in the James Pond series (e.g. The 100 Metre Splash). More unusual mini-games include Kipper Watching, which involves 'heading' incoming beach balls away from a troop of sleeping seals, and Gymnastics. Events can be played with up to 4 players.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Millennium Interactive Ltd., Vectordean Ltd.",
+    "Genre": "Sports",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player, Versus (Alternating)",
     "MenuScreenshot": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Aquatic Games Starring James Pond and The Aquabats, The/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=dlEXNOE-DbE"
 }

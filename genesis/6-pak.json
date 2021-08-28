@@ -1,14 +1,15 @@
 {
     "Title": "6-Pak",
-    "Description": "",
+    "SortingTitle": "6-Pak",
+    "Description": "6-PAK is a compilation of six of SEGA's most popular \"franchise\" games released in the early days of the Genesis. Included are the following:\nColumns\nGolden Axe\nRevenge of Shinobi\nSonic the Hedgehog\nStreets of Rage\nSuper Hang-On",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises Ltd.",
+    "Genre": "Compilation",
+    "ReleaseDate": "1995",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous), Versus (Simultaneous)",
     "MenuScreenshot": "__media/0~9/6-Pak/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/0~9/6-Pak/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/0~9/6-Pak/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/0~9/6-Pak/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/0~9/6-Pak/NTSC-U/Cart.png",
     "BackBoxart": "__media/0~9/6-Pak/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/Z7oQJwmDdEE"
 }

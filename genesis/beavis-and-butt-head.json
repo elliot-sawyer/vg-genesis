@@ -1,14 +1,15 @@
 {
     "Title": "Beavis and Butt-Head",
-    "Description": "",
+    "SortingTitle": "Beavis and Butt-Head",
+    "Description": "This adaptation of the cartoon show Beavis and Butt-Head is a side-view action game with puzzle-solving elements. The goal is to find parts of a torn ticket to the GWAR concert, scattered across the game world. The protagonist duo visits locations such as Turbo Mall 2000, the street, Burger World, hospital, and others. Enemies can be defeated by farting and burping at them",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Viacom New Media",
+    "Developer": "Radical Entertainment Inc.",
+    "Genre": "Action, Adventure",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Beavis and Butt-Head/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Beavis and Butt-Head/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Beavis and Butt-Head/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Beavis and Butt-Head/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Beavis and Butt-Head/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Beavis and Butt-Head/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=v0-IWDBXW4o"
 }

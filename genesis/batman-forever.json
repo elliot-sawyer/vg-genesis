@@ -1,14 +1,15 @@
 {
     "Title": "Batman Forever",
-    "Description": "",
+    "SortingTitle": "Batman Forever",
+    "Description": "Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are The Riddler and Two-Face.\n\nThis game is an usual hybrid of side-scrolling platformer and one-on-one fighter. You make your way through levels that include some platform jumping elements, but you typically take on opponents one at a time like in a fighting game. You arsenal includes a lot of nifty bat-gadgets, and a collection of fighting moves that are unleashed with special button combinations.\n\nThe graphics were rendered completely with digitized actors and objects, but none of the actors from the movie make an appearance in the game",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Acclaim Entertainment, Inc.",
+    "Developer": "Probe Entertainment Ltd.",
+    "Genre": "Action, Beat 'Em Up",
+    "ReleaseDate": "1995",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Batman Forever/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Batman Forever/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Batman Forever/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Batman Forever/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Batman Forever/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Batman Forever/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=WfXhau8ibrM"
 }

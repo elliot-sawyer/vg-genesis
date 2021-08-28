@@ -1,14 +1,15 @@
 {
     "Title": "688 Attack Sub",
-    "Description": "",
+    "SortingTitle": "688 Attack Sub",
+    "Description": "An early submarine game with ten missions which can be played with both American and Soviet attack submarines. The game focuses on realism with several stations the player can use (sonar, weapons, navigation, helm, radio and periscope) but most duties can be delegated to crew members. The graphics are mostly close-up views of the control panels but in some occasions they feature digitized images of surface ships and crew.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Electronic Arts, Inc.",
+    "Genre": "Simulation",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/0~9/688 Attack Sub/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/0~9/688 Attack Sub/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/0~9/688 Attack Sub/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/0~9/688 Attack Sub/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/0~9/688 Attack Sub/NTSC-U/Cart.png",
     "BackBoxart": "__media/0~9/688 Attack Sub/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/SD749zXZ8qk"
 }

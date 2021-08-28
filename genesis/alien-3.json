@@ -1,14 +1,15 @@
 {
     "Title": "Alien 3",
-    "Description": "",
+    "SortingTitle": "Alien 3",
+    "Description": "Alien\u00b3 is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.\n\nThe gameplay of the various Alien\u00b3 conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Arena Entertainment",
+    "Developer": "Probe Software Ltd.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Alien 3/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "",
     "Manual": "__media/A/Alien 3/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Alien 3/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Alien 3/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Alien 3/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=ooab9HeSrxs"
 }

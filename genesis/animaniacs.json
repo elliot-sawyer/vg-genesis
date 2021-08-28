@@ -1,14 +1,15 @@
 {
     "Title": "Animaniacs",
-    "Description": "",
+    "SortingTitle": "Animaniacs",
+    "Description": "Animaniacs is a side-scrolling action/puzzle game based on the animated TV series of the same name. The Warner kids, Yakko, Wakko, and Dot have escaped the water tower again and are on a quest to retrieve movie memorabilia from the Warner Bros. studio lot.\n\nThere are 4 stages, and in each stage the Warners must work together to get past obstacles and enemies. Yakko can push or pull boxes, Wakko can use his hammer to smash things, and Dot can blow kisses to charm simple minded foes.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Konami (America), Inc.",
+    "Developer": "Konami Co., Ltd.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Animaniacs/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/A/Animaniacs/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Animaniacs/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Animaniacs/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Animaniacs/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Animaniacs/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=f1eGFAI-SmA"
 }

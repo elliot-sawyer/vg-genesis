@@ -1,14 +1,15 @@
 {
     "Title": "Battletech A Game of Armored Combat",
-    "Description": "",
+    "SortingTitle": "Battletech: A Game of Armored Combat",
+    "Description": "Take control of a Mad Cat 'Mech as you fight your way through several level of mechanized mayhem. Use machine guns, rocket launchers, homing missiles, flame throwers, mines and atomic bombs to defeat the encroaching enemy threat. The different levels have different terrains, such as snow, ice and swamps, which affect the progress of your 'Mech. You can also destroy the smaller enemy 'Mechs by stomping on them",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Extreme Entertainment Group, Inc.",
+    "Developer": "Malibu Interactive",
+    "Genre": "Action, Isometric",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Battletech A Game of Armored Combat/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Battletech A Game of Armored Combat/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Battletech A Game of Armored Combat/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Battletech A Game of Armored Combat/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Battletech A Game of Armored Combat/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Battletech A Game of Armored Combat/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=lFnBo82SlnY"
 }

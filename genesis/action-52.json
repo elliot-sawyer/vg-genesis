@@ -1,14 +1,15 @@
 {
     "Title": "Action 52",
-    "Description": "",
+    "SortingTitle": "Action 52",
+    "Description": "Action 52 features 52 different games in a single cartridge. Some of them are the same as those included with the identically entitled NES compilation, though most are unique to this release. The games are selected from a colored menu and are mostly side scrolling, platform or shooter action games. Each game is written in one color, yellow meaning \"expert\", purple \"intermediate\", green \"beginner\", blue \"two players\" and white \"special\". The games included are:\n\nGo Bonkers\nDarksyne\nDyno Tennis\nOoze\nStar Ball\nSidewinder\nDaytona\n15 Puzzle\nSketch\nStar Duel\nHaunted Hills\nAlfredo\nThe Cheetahmen\nSkirmish\nDepth Charge\nMinds Eye\nAlien Attack\nBilly Bob\nSharks\nKnockout\nIntruder\nEcho\nFreeway\nMousetrap\nNinja\nSlalom\nDauntless\nForce One\nSpidey\nAppleseed\nSkater\nSunday Drive\nStar Evil\nAir Command\nShootout\nBombs Away\nSpeedboat\nDedant\nG Fighter\nMan At Arms\nNorman\nArmor Battle\nMagic Bean\nApache\nParatrooper\nSky Avenger\nSharpshooter\nMeteor\nBlack Hole\nThe Boss\nFirst Video Game (Pong)\nChallenge (the most difficult levels of each previous game)\nThe game also offers a music demo screen and a randomizer, which picks a game at random",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Active Enterprises Ltd.",
+    "Developer": "Active Enterprises Ltd.",
+    "Genre": "Compilation",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/A/Action 52/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/A/Action 52/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Action 52/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Action 52/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Action 52/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Action 52/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/t7k3bXpJ6s4"
 }

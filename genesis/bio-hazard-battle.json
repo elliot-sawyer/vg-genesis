@@ -1,14 +1,15 @@
 {
     "Title": "Bio-Hazard Battle",
-    "Description": "",
+    "SortingTitle": "Bio-Hazard Battle",
+    "Description": "The civilization on the planet Avaron is by far more advanced than that of the Earth. People developed special biogenetical creatures - giant flies, crabs, and other animals. Unfortunately, those monsters rebelled against the Avaronians and threatened to conquer the planet. It is up to you to save the planet Avaron from the invasion!\n\n\"Bio-Hazard Battle\" is a horizontally scrolling space shooter. You can choose one of the four ships, each one having its own attacks. During the game, you can upgrade your ships' weapons by collecting colored balls floating around. You can store up to three different weapons at the same time, executing attacks in different directions. There are 8 levels of increasing difficulty to complete.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises, Ltd.",
+    "Genre": "Action, Shoot 'Em Up",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Bio-Hazard Battle/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Bio-Hazard Battle/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bio-Hazard Battle/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bio-Hazard Battle/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bio-Hazard Battle/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bio-Hazard Battle/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=k6shOH72MzU"
 }

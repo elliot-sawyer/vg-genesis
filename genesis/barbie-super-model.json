@@ -1,14 +1,15 @@
 {
     "Title": "Barbie Super Model",
-    "Description": "",
+    "SortingTitle": "Barbie: Super Model",
+    "Description": "Help Barbie become a great fashion model! This is an arcade game with many different activities to participate in.\n\nIn each level, Barbie starts by going left to right with forced scrolling. She has a default speed and can speed up as well. She must avoid moving obstacles by moving up and down and controlling her speed. If she hits one, she loses a chance and it's game over if she runs out of chances. She must pick up items which grant point bonuses and extra chances.\n\nThere is also a camera item to pick up which brings you to a magazine cover shoot. You are shown a cover with barbie wearing an outfit which is themed to the level. You must then go to her dressing room and dress her in a matching outfit. You are also given separate control of the colors of three different components and must match these. You are awarded points for each correct match",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Hi-Tech Expressions, Inc.",
+    "Developer": "Bonsai Entertainment, Inc., Tahoe Software Production",
+    "Genre": "Action",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Alternating)",
     "MenuScreenshot": "__media/B/Barbie Super Model/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Barbie Super Model/NTSC-U/ManualThumb.png",
     "Manual": "__media/B/Barbie Super Model/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Barbie Super Model/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Barbie Super Model/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Barbie Super Model/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=qROoo-XS_wI"
 }

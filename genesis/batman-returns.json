@@ -1,14 +1,15 @@
 {
     "Title": "Batman Returns",
-    "Description": "",
+    "SortingTitle": "Batman Returns ",
+    "Description": "The Genesis title based on Batman Returns is a platform game in which the Dark Knight must traverse five action-filled levels on his way to confront the Penguin.\n\nAreas include the rooftops of Gotham City, Max Shreck's department store, the Red Triangle Circus and the sewers. Besides run-and-jump action, there's also a lot of combat in the game, as many of the Penguin's henchmen stand in Batman's way. He can knock them out with punches and kicks and a number of extra weapons stored in his utility belt. These include batarangs, which come in standard and self-seeking varieties, and smoke bombs that stun enemies for a while. In addition, Batman can shoot from his grappling gun and unleash a deadly swarm of bats towards enemies. All of these weapons have limited ammo, however, that must be collected.\n\nOther special tools Batman can use include the grappling hook to reach high places or swing across chasms, and his cape, which can be used to slow falls.\n\nEach of the five levels features several boss battles against Catwoman, the Penguin and others",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Malibu Interactive",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Batman Returns/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Batman Returns/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Batman Returns/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Batman Returns/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Batman Returns/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Batman Returns/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=SIi1e3ZBS3Y"
 }

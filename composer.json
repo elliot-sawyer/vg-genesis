@@ -1,0 +1,9 @@
+{
+    "require": {
+        "league/csv": "^9.7",
+        "league/climate": "^3.7"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.1"
+    }
+}

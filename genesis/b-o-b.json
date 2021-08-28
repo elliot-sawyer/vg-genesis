@@ -1,14 +1,15 @@
 {
     "Title": "B. O. B",
-    "Description": "",
+    "SortingTitle": "B.O.B.",
+    "Description": "You are a teenage ant-like robot, who is going out for a date... However, you take your dad's car and he warns you; if you make a scratch on the car, you will never drive it again...\n\nOf course, you make a scratch and crash on a unknown planet! What to do now?\n\nGuide B.O.B through a colorful game with the strangest enemies you ever seen, to find a new car to get home with...",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Gray Matter Inc.",
+    "Genre": "Action, Run and Gun, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/B. O. B/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/B. O. B/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/B. O. B/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/B. O. B/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/B. O. B/NTSC-U/Cart.jpg",
     "BackBoxart": "__media/B/B. O. B/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=Q4DCiym4exQ"
 }

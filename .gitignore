@@ -1,2 +1,8 @@
 vendor
 .env
+wix-genesis.csv
+
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*.DS_Store

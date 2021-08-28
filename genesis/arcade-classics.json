@@ -1,14 +1,15 @@
 {
     "Title": "Arcade Classics",
-    "Description": "",
+    "SortingTitle": "Arcade Classics",
+    "Description": "Arcade Classics offers three classic Atari titles. It includes the following games:\nMissile Command\nCentipede\nPong (Ultrapong: both Pong and Hockey)\nAll games have selectable difficulty options. They contain a classic mode as well as a Genesis mode (SEGA mode in the Game Gear version), which enhances the graphics and adds new sound effects.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "Atari, Inc.",
+    "Genre": "Compilation",
+    "ReleaseDate": "1996",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous), Co-op (Alternating)",
     "MenuScreenshot": "__media/A/Arcade Classics/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Arcade Classics/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Arcade Classics/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Arcade Classics/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Arcade Classics/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Arcade Classics/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=QqWT_XaqAsQ"
 }

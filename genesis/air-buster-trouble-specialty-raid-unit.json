@@ -1,14 +1,15 @@
 {
     "Title": "Air Buster Trouble Specialty Raid Unit",
-    "Description": "",
+    "SortingTitle": "Air Buster: Trouble Specialty Raid Unit",
+    "Description": "Air Buster is a fast side-scrolling shooter. The player controls a small craft through different levels with many enemies. Every level ends with a boss and some sections speed up the gameplay, offering fast obstacle courses both horizontally and vertically scrolling. Flying orange pods release many power-ups at once, enhancing the ships with new or more powerful lasers, wing men and shields. The player can also hold the fire key to charge a blast that removes all enemy bullets from the screen and deals damage to all enemies. With an unforgiving difficulty, every hit is fatal, but the game can be continued from any point as long as there are lives and credits left. The game can be played with two players cooperatively.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Kaneko USA, Ltd.",
+    "Developer": "Kaneko Co., Ltd.",
+    "Genre": "Action, Shoot 'Em Up",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Co-op (Simultaneous)",
     "MenuScreenshot": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Air Buster Trouble Specialty Raid Unit/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/wbaP0NqxeYE"
 }

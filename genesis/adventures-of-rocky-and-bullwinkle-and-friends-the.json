@@ -1,14 +1,15 @@
 {
     "Title": "Adventures of Rocky and Bullwinkle and Friends, The",
-    "Description": "",
+    "SortingTitle": "Adventures of Rocky and Bullwinkle and Friends, The",
+    "Description": "The Adventures of Rocky and Bullwinkle is the video game adaptation of the 60's cartoon series staring Bullwinkle, a moose, and Rocky, a flying squirrel. The game plays out much like an episode of the show. The story begins at the dedication of the Frostbite Falls Rocky and Bullwinkle museum. Unfortunately, the not-so-nice Boris and Natasha have disguised themselves as security guards for the museum and managed to steal some of the priceless artifacts. Bullwinkle and Rocky must track down the stolen artifacts and return order to Frostbite Falls. Most of the action is of the side-scrolling platformer variety, but along the way, you will get to play lots of mini-games involving characters from the show. During the platforming sections you can switch instantly between the two protagonists. Both play differently: Bullwinkle can throw bombs at enemies and Rocky can fly for short instances.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Absolute Entertainment, Inc.",
+    "Developer": "Absolute Entertainment, Inc.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/FrontBoxart.png",
     "Cart": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Adventures of Rocky and Bullwinkle and Friends, The/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=onFJeA3h7XY"
 }

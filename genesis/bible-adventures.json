@@ -1,14 +1,15 @@
 {
     "Title": "Bible Adventures",
-    "Description": "",
+    "SortingTitle": "Bible Adventures",
+    "Description": "Bible Adventures contains three different side scrolling platform games, each with a different bible theme.\n\nThe first game is Noah's Ark. Here the player needs to search forests, caverns, and mountains to find a male and female of each species and bring them back to the ark before the flood begins. The next game is Save Baby Moses, where the player needs to get past numerous soldiers and other obstacles to bring the baby Moses to safety. The last game is David and Goliath. As the shepherd David, the player needs to round up and protect the family's flock of sheep. After all of the sheep are safe, the player will then need to face Goliath.\n\nThe game features scripture taken from the Holy Bible, New International Version to provide clues or information.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Wisdom Tree, Inc.\n",
+    "Developer": "Wisdom Tree, Inc.",
+    "Genre": "Action, Educational",
+    "ReleaseDate": "1995",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Bible Adventures/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Bible Adventures/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bible Adventures/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bible Adventures/NTSC-U/FrontBoxart.png",
     "Cart": "__media/B/Bible Adventures/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bible Adventures/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=5tBrFACtlkc"
 }

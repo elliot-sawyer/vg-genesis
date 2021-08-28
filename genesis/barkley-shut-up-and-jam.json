@@ -1,14 +1,15 @@
 {
     "Title": "Barkley Shut Up and Jam!",
-    "Description": "",
+    "SortingTitle": "Barkley Shut Up and Jam!",
+    "Description": "In the game you play street basketball two-on-two with your friends on with computer. So there are no referees, no fouls, and no shot clock, but the teams called by the names of cities such as Phoenix or Chicago. You can choose your player from 16 available players, including Barkley himself",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sport Accolade",
+    "Developer": "Accolade, Inc.",
+    "Genre": "Sports",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player,  Versus (Simultaneous), Co-op (Simultaneous)",
     "MenuScreenshot": "__media/B/Barkley Shut Up and Jam!/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Barkley Shut Up and Jam!/NTSC-U/ManualThumb.png",
     "Manual": "__media/B/Barkley Shut Up and Jam!/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Barkley Shut Up and Jam!/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Barkley Shut Up and Jam!/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Barkley Shut Up and Jam!/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=AkSUpYujk_M"
 }

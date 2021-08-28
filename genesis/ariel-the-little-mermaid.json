@@ -1,14 +1,15 @@
 {
     "Title": "Ariel the Little Mermaid",
-    "Description": "",
+    "SortingTitle": "Ariel the Little Mermaid",
+    "Description": "Help either Ariel, the gleeful little mermaid, or Triton, her father, foil the evil Ursula, who has transformed everyone into small, green worm-like creatures, including the character you don't initially choose.\r\n\r\nRescuing requires you to simply swim into the unfortunate little victims as they hang about at fixed places in the watery world; while fending off and dodging enemies like eels, clams, sharks, and several other sea meanies. Friends like Flounder and Sebastian can also be summoned for a little helping hand.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "BlueSky Software, Inc.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Ariel the Little Mermaid/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Ariel the Little Mermaid/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Ariel the Little Mermaid/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Ariel the Little Mermaid/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Ariel the Little Mermaid/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Ariel the Little Mermaid/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=5RVzha9teuw"
 }

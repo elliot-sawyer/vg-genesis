@@ -1,0 +1,21 @@
+{
+    "Title": "Ballz 3D",
+    "SortingTitle": "Ballz 3D",
+    "Description": "Ballz is a fighting game, but what makes it unique is the fact that your player is made out of balls. The game has a detailed 3D engine with a fixed camera. The game plays like your normal beat 'em up game. This game supports 2 players, 3 difficulties, and up to 21 matches.",
+    "Console": "genesis",
+    "Region": "NTSC-U",
+    "Publisher": "Accolade, Inc.",
+    "Developer": "P.F. Magic, Inc.",
+    "Genre": "Fighting",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
+    "MenuScreenshot": "__media/B/Ballz 3D/NTSC-U/MenuScreenshot.jpg",
+    "ManualThumb": "",
+    "Manual": "__media/B/Ballz 3D/NTSC-U/Manual.pdf",
+    "GameplayScreenshot": "__media/B/Ballz 3D/NTSC-U/GameplayScreenshot.jpg",
+    "FrontBoxart": "__media/B/Ballz 3D/NTSC-U/FrontBoxart.jpg",
+    "Cart": "__media/B/Ballz 3D/NTSC-U/Cart.jpg",
+    "BackBoxart": "__media/B/Ballz 3D/NTSC-U/BackBoxart.jpg",
+    "YouTubeVideo": "https://www.youtube.com/watch?v=qXEFZqEGq_0"
+}

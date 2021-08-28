@@ -1,14 +1,15 @@
 {
     "Title": "Blockout",
-    "Description": "",
+    "SortingTitle": "Blockout",
+    "Description": "Blockout is a Tetris variant with an added twist: it's in 3D. The player can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "P.Z.Karen Co. Development Group",
+    "Genre": "Action, Puzzle",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Blockout/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "__media/B/Blockout/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Blockout/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Blockout/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Blockout/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Blockout/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=nuKEC6MLutI"
 }

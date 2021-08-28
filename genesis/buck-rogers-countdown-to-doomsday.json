@@ -1,14 +1,15 @@
 {
     "Title": "Buck Rogers Countdown to Doomsday",
-    "Description": "",
+    "SortingTitle": "Buck Rogers: Countdown to Doomsday",
+    "Description": "This version of Buck Rogers: Countdown to Doomsday retains most of the story and the core gameplay of the computer version of the same name, but differs in several gameplay- and interface-related aspects.\n\nThe main differences involve reduction of some of the skills and equipment types present in the computer version. Limitations have been imposed on character creation as well: there are only four character classes (Warrior, Rocketjock, Medic, and Rogue) and three races (Human, Desert Runner, and Tinker) to choose from, as opposed to five character classes and six races in the computer release.\n\nYou play as a party of new recruits to the organisation NEO which is fighting the RAM faction, a group of tyrants who previously ruled the solar system. The game begins with you preventing an invasion of earth headquarters by alien mutants. After this you transit to an orbital command base where you take on several different missions.\n\nIn the computer version, first-person view and pseudo-3D graphics were used for navigation, while combat was viewed from isometric perspective. In this release, isometric view is used both for navigation and combat, the player-controlled party visible from third-person perspective.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.",
+    "Developer": "Strategic Simulations, Inc.",
+    "Genre": "RPG (Turn-based)",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Buck Rogers Countdown to Doomsday/NTSC-U/MenuScreenshot.gif",
     "ManualThumb": "",
     "Manual": "__media/B/Buck Rogers Countdown to Doomsday/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Buck Rogers Countdown to Doomsday/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Buck Rogers Countdown to Doomsday/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Buck Rogers Countdown to Doomsday/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=t2JA88S8_Nk"
 }

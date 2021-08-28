@@ -1,14 +1,15 @@
 {
     "Title": "Andre Agassi Tennis",
-    "Description": "",
+    "SortingTitle": "Andre Agassi Tennis",
+    "Description": "A game endorsed by the American player who stunned the tennis world in the early 90s with his \"Image is everything\" looks, sporting long hair, earrings and colorful shirts, Andre Agassi Tennis includes eight players (male and female and as expected, only Agassi is a real player) rated according to movement speed and both accuracy and strength on serve, backhand and forehand.\n\nGameplay features all the usual moves: smashes, passing shots, volleys and all kinds of backhand and forehand plays, but unlike other games, precise positioning and timing are crucial to avoid hitting the ball outside the court, swinging the racket into thin air or more embarrassing, let the ball hit you on the head. Three courts are available: Grass, Clay and Indoor (Sega versions add a fourth, Hard), but the differences between them are minimal. Game modes change according to the version, with the 16-bit versions including a \"Skins\" game, where each point is worth a sum of money based on the number of times the ball was hit.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "TecMagik Entertainment Ltd.",
+    "Developer": "TecMagik Entertainment Ltd.",
+    "Genre": "Sports",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "",
     "ManualThumb": "__media/A/Andre Agassi Tennis/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Andre Agassi Tennis/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Andre Agassi Tennis/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Andre Agassi Tennis/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Andre Agassi Tennis/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=O60vjpotlHk"
 }

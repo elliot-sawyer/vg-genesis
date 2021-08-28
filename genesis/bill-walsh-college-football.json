@@ -1,14 +1,15 @@
 {
     "Title": "Bill Walsh College Football",
-    "Description": "",
+    "SortingTitle": "Bill Walsh College Football",
+    "Description": "The game features 24 college football teams from the 1993 season and 24 of the all-time college teams since 1978. Play modes include exhibition, playoffs and all-time playoffs and the SNES version also has an eleven week season mode with the National Championship as the ultimate goal.\n\nThe playbook consists of 56 offensive plays and 52 defensive plays. On offense, running backs can dive, spin and hurdle. Also, passing is dealt with by having the receivers in their own windowed boxes. When on defense, defenders can dive at the ball carrier, and raise hands to block kicks or intercept passes",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Electronic Arts, Inc.\n",
+    "Developer": "High Score Productions\n",
+    "Genre": "Sports",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "4",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Bill Walsh College Football/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Bill Walsh College Football/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bill Walsh College Football/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bill Walsh College Football/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bill Walsh College Football/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bill Walsh College Football/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=c7OF3DPYbjc"
 }

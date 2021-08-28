@@ -1,14 +1,15 @@
 {
     "Title": "Batman Revenge of the Joker",
-    "Description": "",
+    "SortingTitle": "Batman: Revenge of The Joker",
+    "Description": "The Joker lives again in SunSoft's sequel to their NES original. The Joker has somehow managed to escape from Arkham Asylum once again, and Batman must fight him across seven stages to restore peace to Gotham City.\n\nBatman carries a gauntlet shooting basic bullets by default. This can be upgraded with weapon powerups located in boxes throughout the level, giving access to homing and energy weapons. Every upgrade weapon can be charged up for a secondary attack, different for each weapon. Batman also has a slide useful against most enemies and some bosses.\n\nBoss fights introduce a system where life is measured by points instead of tick marks or bars. In these sections, Batman has significantly more health, and can take many more hits when rumbling with these stronger foes",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sun Corporation of America",
+    "Developer": "Ringler Studios",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1992",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Batman Revenge of the Joker/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Batman Revenge of the Joker/NTSC-U/ManualThumb.png",
     "Manual": "__media/B/Batman Revenge of the Joker/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Batman Revenge of the Joker/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Batman Revenge of the Joker/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Batman Revenge of the Joker/NTSC-U/BackBoxart.png",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=8UpGKyhqw_s"
 }

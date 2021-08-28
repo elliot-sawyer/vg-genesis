@@ -1,14 +1,15 @@
 {
     "Title": "Bugs Bunny In Double Trouble",
-    "Description": "",
+    "SortingTitle": "Bugs Bunny in Double Trouble",
+    "Description": "The game is based on the Looney Tunes cartoon movies. Bugs Bunny falls asleep, and in his dream sees Yosemite Sam developing a robot called Gossamer. The robot disobeys the commands of his master and goes out of control. Now Bugs Bunny has to enter the TV world and to correct things, bringing order back to the lives of Looney Tunes inhabitants.\n\nThe game consists of several platform-based stages, each one having a different goal (guiding another character to a safe place, defeating a big monster, etc.). Bugs Bunny can jump and run quickly, as well as collect items and throw them at enemies.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA Enterprises Ltd.",
+    "Developer": "Probe Entertainment Ltd, Atod AB",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1996",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bugs Bunny In Double Trouble/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=8gOsk6HM8TA"
 }

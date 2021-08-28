@@ -1,14 +1,15 @@
 {
     "Title": "Bubble And Squeak",
-    "Description": "",
+    "SortingTitle": "Bubble And Squeak",
+    "Description": "Bubble and Squeak starts off similarly to many other platform games. Controlling a bald child, you move through a scrolling array of ledges, avoiding contact with nasties who release coins when shot. There are hidden areas to find as well.\r\n\r\nHalfway through the first of the 30 levels, you meet Squeak and the full nature of the game starts. Squeak is a blue alien, who must also be guided through the levels. As he can't jump as high as you, he must sometimes be instructed to wait while you flick a switch or otherwise solve the puzzle of how to guide him through. If you stand on top of Squeak you can be launched into an extra-high jump.\r\n\r\nBubble Mode is an equivalent of Super Mario mode - it allows you to jump higher, run faster and shoot more lethal weaponry (bubbles in this case). It is activated by placing a coin into a Bubblegum machine, and then jumping on Squeak's back.\r\n\r\nIn between the main platform levels there are side-view shoot 'em up sections taking place underwater \u2013 completing these earns bonuses.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sun Corporation",
+    "Developer": "Fox Williams",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1994",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Bubble And Squeak/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Bubble And Squeak/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bubble And Squeak/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bubble And Squeak/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bubble And Squeak/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bubble And Squeak/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=Y-1MukAYl-k"
 }

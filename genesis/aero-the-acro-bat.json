@@ -1,14 +1,15 @@
 {
     "Title": "Aero the Acro-Bat",
-    "Description": "",
+    "SortingTitle": "Aero the Acro-Bat",
+    "Description": "You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sun Corporation of America",
+    "Developer": "Iguana Entertainment, Inc.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Aero the Acro-Bat/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/A/Aero the Acro-Bat/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Aero the Acro-Bat/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Aero the Acro-Bat/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Aero the Acro-Bat/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Aero the Acro-Bat/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=S7cL4-rT_A4"
 }

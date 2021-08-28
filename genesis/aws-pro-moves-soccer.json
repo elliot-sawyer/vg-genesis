@@ -1,14 +1,15 @@
 {
     "Title": "AWS Pro Moves Soccer",
-    "Description": "",
+    "SortingTitle": "Aws Pro Moves Soccer",
+    "Description": "If anyone is wondering what the AWS in this title means, it is an acronym for Asciiware World Sports. Now with that out of the way, this is a soccer game with training, exhibition, and tournament modes.\n\nTraining lets the players team practice without an opposing team on the field. Exhibition is the basic one team versus another for one game. The tournament mode is divided into two different modes; 8 Nations and World Cup. 8 Nations is just a shorter version of the World Cup tournament mode because it involves only 8 teams instead of all 32 of them like it does in the World Cup mode.\n\nThe player can choose to play as one of these 32 International teams or can choose to create their own team that has its own shirt, stripe, and shorts colors.\n\nThe game has options that allow the player to choose to have light or heavy wind, a dry, soggy, or snowy field, and to have fouls turned on or off.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Asciiware",
+    "Developer": "BGS Development, ZAT Productions",
+    "Genre": "Sports",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/A/AWS Pro Moves Soccer/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/AWS Pro Moves Soccer/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/AWS Pro Moves Soccer/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/AWS Pro Moves Soccer/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/AWS Pro Moves Soccer/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/AWS Pro Moves Soccer/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=e9vabrodPvY"
 }

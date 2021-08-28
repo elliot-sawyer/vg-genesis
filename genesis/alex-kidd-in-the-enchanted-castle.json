@@ -1,14 +1,15 @@
 {
     "Title": "Alex Kidd in the Enchanted Castle",
-    "Description": "",
+    "SortingTitle": "Alex Kidd in the Enchanted Castle",
+    "Description": "Alex Kidd, resident of planet Aries, is the king's brother. One day he comes across a rumor that his long lost father, King Thor, is alive and somewhere on the planet Paperock. Of course he immediately travels to said planet to find his father.\n\nAlex Kidd in the Enchanted Castle offers standard platforming action in which Alex explores side-scrolling levels and has to avoid touching enemies. He has two standard attacks to his disposal: punching enemies on the ground and kicking them in the air. He also uses items to make his life easier, e.g. a pedicopter with a gun, a pogo-stick for reaching higher ground or an invulnerability cloak. After usage Alex puts those items into his inventory but he loses the active item when dying. Coins are acquired from defeated enemies or treasure chests.\n\nJust like in Alex Kidd in Miracle World, the mini game Janken, also known as rock-paper-scissors, plays an important role: bosses are not defeated by shooting but by beating them in this game of chance. New in comparison to the predecessor is that Janken also needs to be played to purchase items in shops: After paying for the item it is only given to Alex if he wins the mini game. The result of failure is death.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises Ltd.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1989",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Alex Kidd in the Enchanted Castle/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=JGw0ds1GuQo"
 }

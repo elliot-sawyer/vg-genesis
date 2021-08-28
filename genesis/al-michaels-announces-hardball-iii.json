@@ -1,14 +1,15 @@
 {
     "Title": "Al Michaels Announces HardBall III",
-    "Description": "",
+    "SortingTitle": "Al Michaels Announces HardBall III",
+    "Description": "The third game in the Hardball baseball series. This revision features 256 colour VGA graphics, and announcer Al Michaels provides running commentary while you play.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Accolade, Inc.",
+    "Developer": "MindSpan",
+    "Genre": "Sports",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/A/Al Michaels Announces HardBall III/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Al Michaels Announces HardBall III/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Al Michaels Announces HardBall III/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Al Michaels Announces HardBall III/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Al Michaels Announces HardBall III/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Al Michaels Announces HardBall III/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=FKVBH5dXYSs"
 }

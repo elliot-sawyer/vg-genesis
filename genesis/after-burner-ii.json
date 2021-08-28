@@ -1,14 +1,15 @@
 {
     "Title": "After Burner II",
-    "Description": "",
+    "SortingTitle": "After Burner II",
+    "Description": "After Burner II is an updated re-release of After Burner. Besides extra levels, a few new enemies, a few touches at the soundtrack and more disposable missiles, the biggest addition is the ability to slow down or speed up manually. The rest of the gameplay remains identical.\n\nDespite being called After Burner, most ports to home computers and consoles are based on this version. The NES, Amiga and Commodore 64 received two different ports with significant technical differences. This entry documents the original ports and the second ones can be found under the following entries: NES and Amiga / C64",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "SEGA of America, Inc.",
+    "Developer": "SEGA Enterprises Ltd.",
+    "Genre": "Action, Rail Shooter",
+    "ReleaseDate": "1990",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/After Burner II/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/After Burner II/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/After Burner II/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/After Burner II/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/After Burner II/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/After Burner II/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://youtu.be/EGbZY82-Sw4"
 }

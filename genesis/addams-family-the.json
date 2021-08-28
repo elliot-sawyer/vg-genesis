@@ -1,14 +1,15 @@
 {
     "Title": "Addams Family, The",
-    "Description": "",
+    "SortingTitle": "Addams Family, The",
+    "Description": "The Addams Family is a platform game based on the characters and settings from the movie (which, in turn, is based on the famous 1960's television series, which in turn is based on Charles Addams cartoon of the same name, which was featured in the magazine, The New Yorker, in the 30's).\n\nThe game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.\n\nAs Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Flying Edge, Inc.",
+    "Developer": "Ocean Software Ltd.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1993",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/A/Addams Family, The/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/A/Addams Family, The/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/A/Addams Family, The/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/A/Addams Family, The/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/A/Addams Family, The/NTSC-U/Cart.png",
     "BackBoxart": "__media/A/Addams Family, The/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=wvhLDpT9eg0"
 }

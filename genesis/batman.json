@@ -1,14 +1,15 @@
 {
     "Title": "Batman",
-    "Description": "",
+    "SortingTitle": "Batman",
+    "Description": "The Genesis version of Batman: The Video Game follows closely the plot from the 1989 movie.\n\nThe game consists in six stages, four of side-scrolling platform action and two side-scrolling shooter ones, in the following order: Gotham City Street, Axis Chemical Factory, Flugelheim Museum, Gotham City Street (with the Batmobile and after that on foot), In the Sky over Gotham City (with the Batwing) and the Cathedral, where Batman finally faces the Joker.\n\nBatman can beat his enemies by punching them, slide kicking (by pressing down and the B button) or throwing his Batarang. By holding down the B button, Batman will block projectile-based attacks. He can also use his double jump (pressing the C button a second time while ascending) to leap greater distances or attack his enemies. To reach higher platforms, Batman can use his Grappling Hook (by pressing up and C to shoot, C again to climb). While piloting the Batmobile or the Batwing, Batman can shoot the Twin Vulcan Cannons (B button) or Twin Homing Missiles (A button).\n\nThrough the levels, Batman will collect Batman emblems (which will give him Batarangs or Twin Homing Missiles, depending on the stage played), Hearts (which give him health) and Batman heads (which give him an extra life)",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Sun Corporation of America",
+    "Developer": "Sun Electronics Corp.",
+    "Genre": "Action, Platformer",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Batman/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "__media/B/Batman/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Batman/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Batman/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Batman/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Batman/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=-vfOILVXmPA"
 }

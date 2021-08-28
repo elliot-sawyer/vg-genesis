@@ -1,14 +1,15 @@
 {
     "Title": "Bimini Run",
-    "Description": "",
+    "SortingTitle": "Bimini Run",
+    "Description": "You are Kenji Ohara, a motor boat expert. The evil Dr. Orca has kidnapped your sister Kim. Together with your best friend Luka you must find his hideout on a deserted island, and rescue your sister from his clutches. But that won't be easy, as Dr. Orca has sent his henchmen to stop you!\n\nThis is a sailing action game. You navigate your motor boat from a third person perspective view, increasing and decreasing your speed, avoiding yachts and other obstacles, and shooting down the enemies who are trying to stop you.",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Nuvision Entertainment",
+    "Developer": "Microsmiths, Inc.",
+    "Genre": "Action, Racing",
+    "ReleaseDate": "1990",
+    "MaxPlayers": "1",
+    "PlayModes": "Single Player",
     "MenuScreenshot": "__media/B/Bimini Run/NTSC-U/MenuScreenshot.png",
     "ManualThumb": "__media/B/Bimini Run/NTSC-U/ManualThumb.jpg",
     "Manual": "__media/B/Bimini Run/NTSC-U/Manual.pdf",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Bimini Run/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Bimini Run/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Bimini Run/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=V64-56U9Z08"
 }

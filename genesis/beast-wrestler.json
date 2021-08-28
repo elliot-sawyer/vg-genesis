@@ -1,14 +1,15 @@
 {
     "Title": "Beast Wrestler",
-    "Description": "",
+    "SortingTitle": "Beast Wrestler",
+    "Description": "A one on one fighting game seen from an isometric perspective. All beasts or dragons have two basic attacks: a punch and a tail attack, as well as a special attack that can only be performed while a certain icon is displayed. During close combat, pressing the A or C button rapidly will result in a throwing or choking attack. There is no visible health bar, but three icons are displayed at the bottom of the screen. Once a dragon is knocked down for a longer moment, one icon turns red. Once all icons are red, the fight is lost. The battle arena is surrounded by an electric fence, that opponents can be thrown into and which can also be used to initiate jump attacks.\n\nThere are two modes of play: Match and Tournament. Match is a single match for one or two players, where several different dragons are available. Tournament sees the player starting out with a week dragon who has to fight increasingly difficult battles and increase his stats (Power, Speed and Stamina). After every other battle, a shop can be visited that offers different items including food that increases Power, Speed or Stamina, Data Disks that contain information on other Dragons and more. After visiting the shop, Dragons can be trained. The training consists of simply selecting an attribute to be increased. At a few points in the game, it is possible to splice the player's Dragon's genes which that of a defeated Opponent to gain different abilities",
     "Console": "genesis",
     "Region": "NTSC-U",
-    "Publisher": "",
-    "Developer": "",
-    "Genre": "",
-    "ReleaseDate": "",
-    "MaxPlayers": "",
-    "PlayModes": "",
+    "Publisher": "Renovation Products, Inc.",
+    "Developer": "Riot",
+    "Genre": "Action, Fighting, Isometric",
+    "ReleaseDate": "1991",
+    "MaxPlayers": "2",
+    "PlayModes": "Single Player, Versus (Simultaneous)",
     "MenuScreenshot": "__media/B/Beast Wrestler/NTSC-U/MenuScreenshot.jpg",
     "ManualThumb": "",
     "Manual": "",
@@ -16,5 +17,5 @@
     "FrontBoxart": "__media/B/Beast Wrestler/NTSC-U/FrontBoxart.jpg",
     "Cart": "__media/B/Beast Wrestler/NTSC-U/Cart.png",
     "BackBoxart": "__media/B/Beast Wrestler/NTSC-U/BackBoxart.jpg",
-    "YouTubeVideo": ""
+    "YouTubeVideo": "https://www.youtube.com/watch?v=7ILsnUuCmyQ"
 }
