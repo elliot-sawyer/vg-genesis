@@ -65,7 +65,7 @@ class VGCompleteGenerate {
             $title = $r['Name'];
             $firstChar = substr($title, 0, 1);
 
-            $this->manifest[$filename] = $r['Name'];
+            $this->manifest[$filename] = $r['SortingTitle'];
             $data = $this->getJSON(
                 $title,
                 $this->console,
