@@ -7,6 +7,7 @@ class VGCompleteGenerate {
     private $console;
     private $consoles = ['genesis'];
     private $wixCSV;
+    private $manifest = [];
     public function __construct()
     {
         $this->cli = new \League\CLImate\CLImate;
@@ -17,6 +18,7 @@ class VGCompleteGenerate {
             $this->init();
             $this->importCSV();
             $this->scanSourceDir();
+            $this->generateManifest();
         } catch (Exception $e) {
             $this->cli->red($e->getMessage());
         }
@@ -48,6 +50,11 @@ class VGCompleteGenerate {
         }
     }
 
+    private function generateManifest()
+    {
+        file_put_contents('manifest.json', json_encode($this->manifest));
+    }
+
     private function importCSV() {
         $csv = \League\Csv\Reader::createFromPath($this->wixCSV, 'r');
         //get the first row, usually the CSV header
@@ -58,6 +65,7 @@ class VGCompleteGenerate {
             $title = $r['Name'];
             $firstChar = substr($title, 0, 1);
 
+            $this->manifest[$filename] = $r['Name'];
             $data = $this->getJSON(
                 $title,
                 $this->console,
