@@ -56,6 +56,7 @@ class VGCompleteGenerate {
     }
 
     private function importCSV() {
+        if(!$this->wixCSV) return;
         $csv = \League\Csv\Reader::createFromPath($this->wixCSV, 'r');
         //get the first row, usually the CSV header
         $csv->setHeaderOffset(0);
